@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href = "stylesheet.css">
+        <title>VGCMatchups</title>
+        <meta name="description" content="A website">
+        <h1>VGCMatchups</h1>
+    </head>
+    <body>
+
+        <h2>Team Input</h2>
+        
+        <table class = "insertTable">
+            <tr>
+                <th></th>
+                <th>
+                    Pokémon 1
+                    <div class="search-container">
+                        <input type="text" id="search1" placeholder="Enter Pokémon name">
+                        <div id="result1" class="result"></div>
+                    </div>
+                </th>
+                <th>
+                    Pokémon 2
+                    <div class="search-container">
+                        <input type="text" id="search2" placeholder="Enter Pokémon name">
+                        <div id="result2" class="result"></div>
+                    </div>
+                </th>
+                <th>
+                    Pokémon 3
+                    <div class="search-container">
+                        <input type="text" id="search3" placeholder="Enter Pokémon name">
+                        <div id="result3" class="result"></div>
+                    </div>
+                </th>
+                <th>
+                    Pokémon 4
+                    <div class="search-container">
+                        <input type="text" id="search4" placeholder="Enter Pokémon name">
+                        <div id="result4" class="result"></div>
+                    </div>
+                </th>
+                <th>
+                    Pokémon 5
+                    <div class="search-container">
+                        <input type="text" id="search5" placeholder="Enter Pokémon name">
+                        <div id="result5" class="result"></div>
+                    </div>
+                </th>
+                <th>
+                    Pokémon 6
+                    <div class="search-container">
+                        <input type="text" id="search6" placeholder="Enter Pokémon name">
+                        <div id="result6" class="result"></div>
+                    </div>
+                </th>
+            </tr>
+            <tr>
+                <th>Item</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Ability</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Level</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Tera Type</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>EVs</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Nature</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>IVs</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Move 1</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Move 2</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Move 3</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Move 4</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+
+        <script src="script.js"></script>
+
+        <h2>Defensive Coverage</h2>
+        <table class = "defTable">
+            <tr>
+                <th></th>
+                <th>
+                    Pokémon 1
+                    <div id="result1" class="result"></div>
+                </th>
+                <th>Pokémon 2</th>
+                <th>Pokémon 3</th>
+                <th>Pokémon 4</th>
+                <th>Pokémon 5</th>
+                <th>Pokémon 6</th>
+            </tr>
+            <tr>
+                <th><img src="/icons/normal.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/fire.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/water.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></th>
+            </tr>
+            <tr>
+                <th><img src="/icons/grass.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></th>
+            </tr>
+            <tr>
+                <th><img src="/icons/electric.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/ice.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/fighting.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/poison.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/ground.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/flying.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/psychic.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/bug.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/rock.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/ghost.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/dragon.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/dark.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/steel.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th><img src="/icons/fairy.png" class = "typeName"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>    
+    </body>
+</html>
