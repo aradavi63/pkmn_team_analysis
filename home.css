@@ -1,0 +1,44 @@
+body {
+    background-color: #c7d8ed;
+    color: #cccccc;
+    font-family: Arial;
+}
+
+h1, h2 {
+    color: #1f231f;
+}
+
+h2 {
+    text-align: center;
+}
+
+p, label {
+    color: #1c1f1e;
+}
+
+table {
+    color: rgb(223, 230, 233);
+    border: 3px solid #72ff72;background-color: #ADD8E6;
+    border-collapse: collapse;
+    width: 1400px;
+    margin: 20px auto;
+}
+
+table td, th {
+    border: 3px solid blue;
+    width: 100px;
+    height: 25px;
+    color: #1c1f1e;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.typeName {
+    width: 100px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.search-container {
+    text-align:center;
+}
