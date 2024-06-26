@@ -9,6 +9,12 @@
         "#0003; Venusaur; Grass, Poison"
     ],
     [
+        "#0003; Venusaur-Mega; Grass, Poison"
+    ],
+    [
+        "#0003; Venusaur-Gigantamax; Grass, Poison"
+    ],
+    [
         "#0004; Charmander; Fire"
     ],
     [
@@ -16,6 +22,15 @@
     ],
     [
         "#0006; Charizard; Fire, Flying"
+    ],
+    [
+        "#0006; Charizard-Mega_X; Fire, Dragon"
+    ],
+    [
+        "#0006; Charizard-Mega_Y; Fire, Flying"
+    ],
+    [
+        "#0006; Charizard-Gigantamax; Fire, Flying"
     ],
     [
         "#0007; Squirtle; Water"
@@ -27,6 +42,12 @@
         "#0009; Blastoise; Water"
     ],
     [
+        "#0009; Blastoise-Mega; Water"
+    ],
+    [
+        "#0009; Blastoise-Gigantamax; Water"
+    ],
+    [
         "#0010; Caterpie; Bug"
     ],
     [
@@ -34,6 +55,9 @@
     ],
     [
         "#0012; Butterfree; Bug, Flying"
+    ],
+    [
+        "#0012; Butterfree-Gigantamax; Bug, Flying"
     ],
     [
         "#0013; Weedle; Bug, Poison"
@@ -45,6 +69,9 @@
         "#0015; Beedrill; Bug, Poison"
     ],
     [
+        "#0015; Beedrill-Mega; Bug, Poison"
+    ],
+    [
         "#0016; Pidgey; Normal, Flying"
     ],
     [
@@ -52,6 +79,9 @@
     ],
     [
         "#0018; Pidgeot; Normal, Flying"
+    ],
+    [
+        "#0018; Pidgeot-Mega; Normal, Flying"
     ],
     [
         "#0019; Rattata; Normal"
@@ -79,6 +109,9 @@
     ],
     [
         "#0025; Pikachu; Electric"
+    ],
+    [
+        "#0025; Pikachu-Gigantamax; Electric"
     ],
     [
         "#0026; Raichu; Electric"
@@ -183,6 +216,9 @@
         "#0052; Meowth; Normal"
     ],
     [
+        "#0052; Meowth-Gigantamax; Normal"
+    ],
+    [
         "#0052; Meowth-Alola; Dark"
     ],
     [
@@ -237,6 +273,9 @@
         "#0065; Alakazam; Psychic"
     ],
     [
+        "#0065; Alakazam-Mega; Psychic"
+    ],
+    [
         "#0066; Machop; Fighting"
     ],
     [
@@ -244,6 +283,9 @@
     ],
     [
         "#0068; Machamp; Fighting"
+    ],
+    [
+        "#0068; Machamp-Gigantamax; Fighting"
     ],
     [
         "#0069; Bellsprout; Grass, Poison"
@@ -300,6 +342,9 @@
         "#0080; Slowbro; Water, Psychic"
     ],
     [
+        "#0080; Slowbro-Mega; Water, Psychic"
+    ],
+    [
         "#0080; Slowbro-Galar; Poison, Psychic"
     ],
     [
@@ -354,6 +399,12 @@
         "#0094; Gengar; Ghost, Poison"
     ],
     [
+        "#0094; Gengar-Mega; Ghost, Poison"
+    ],
+    [
+        "#0094; Gengar-Gigantamax; Ghost, Poison"
+    ],
+    [
         "#0095; Onix; Rock, Ground"
     ],
     [
@@ -367,6 +418,9 @@
     ],
     [
         "#0099; Kingler; Water"
+    ],
+    [
+        "#0099; Kingler-Gigantamax; Water"
     ],
     [
         "#0100; Voltorb; Electric"
@@ -432,6 +486,9 @@
         "#0115; Kangaskhan; Normal"
     ],
     [
+        "#0115; Kangaskhan-Mega; Normal"
+    ],
+    [
         "#0116; Horsea; Water"
     ],
     [
@@ -471,6 +528,9 @@
         "#0127; Pinsir; Bug"
     ],
     [
+        "#0127; Pinsir-Mega; Bug"
+    ],
+    [
         "#0128; Tauros; Normal"
     ],
     [
@@ -489,13 +549,22 @@
         "#0130; Gyarados; Water, Flying"
     ],
     [
+        "#0130; Gyarados-Mega; Water, Dark"
+    ],
+    [
         "#0131; Lapras; Water, Ice"
+    ],
+    [
+        "#0131; Lapras-Gigantamax; Water, Ice"
     ],
     [
         "#0132; Ditto; Normal"
     ],
     [
         "#0133; Eevee; Normal"
+    ],
+    [
+        "#0133; Eevee-Gigantamax; Normal"
     ],
     [
         "#0134; Vaporeon; Water"
@@ -528,6 +597,9 @@
         "#0143; Snorlax; Normal"
     ],
     [
+        "#0143; Snorlax-Gigantamax; Normal"
+    ],
+    [
         "#0144; Articuno; Ice, Flying"
     ],
     [
@@ -556,6 +628,12 @@
     ],
     [
         "#0150; Mewtwo; Psychic"
+    ],
+    [
+        "#0150; Mewtwo-Mega_X; Psychic, Fighting"
+    ],
+    [
+        "#0150; Mewtwo-Mega_Y; Psychic"
     ],
     [
         "#0151; Mew; Psychic"
@@ -654,6 +732,9 @@
         "#0181; Ampharos; Electric"
     ],
     [
+        "#0181; Ampharos-Mega; Electric, Dragon"
+    ],
+    [
         "#0182; Bellossom; Grass"
     ],
     [
@@ -741,6 +822,9 @@
         "#0208; Steelix; Steel, Ground"
     ],
     [
+        "#0208; Steelix-Mega; Steel, Ground"
+    ],
+    [
         "#0209; Snubbull; Fairy"
     ],
     [
@@ -756,10 +840,16 @@
         "#0212; Scizor; Bug, Steel"
     ],
     [
+        "#0212; Scizor-Mega; Bug, Steel"
+    ],
+    [
         "#0213; Shuckle; Bug, Rock"
     ],
     [
         "#0214; Heracross; Bug, Fighting"
+    ],
+    [
+        "#0214; Heracross-Mega; Bug, Fighting"
     ],
     [
         "#0215; Sneasel; Dark, Ice"
@@ -811,6 +901,9 @@
     ],
     [
         "#0229; Houndoom; Dark, Fire"
+    ],
+    [
+        "#0229; Houndoom-Mega; Dark, Fire"
     ],
     [
         "#0230; Kingdra; Water, Dragon"
@@ -870,6 +963,9 @@
         "#0248; Tyranitar; Rock, Dark"
     ],
     [
+        "#0248; Tyranitar-Mega; Rock, Dark"
+    ],
+    [
         "#0249; Lugia; Psychic, Flying"
     ],
     [
@@ -888,6 +984,9 @@
         "#0254; Sceptile; Grass"
     ],
     [
+        "#0254; Sceptile-Mega; Grass"
+    ],
+    [
         "#0255; Torchic; Fire"
     ],
     [
@@ -897,6 +996,9 @@
         "#0257; Blaziken; Fire, Fighting"
     ],
     [
+        "#0257; Blaziken-Mega; Fire, Fighting"
+    ],
+    [
         "#0258; Mudkip; Water"
     ],
     [
@@ -904,6 +1006,9 @@
     ],
     [
         "#0260; Swampert; Water, Ground"
+    ],
+    [
+        "#0260; Swampert-Mega; Water, Ground"
     ],
     [
         "#0261; Poochyena; Dark"
@@ -978,6 +1083,9 @@
         "#0282; Gardevoir; Psychic, Fairy"
     ],
     [
+        "#0282; Gardevoir-Mega; Psychic, Fairy"
+    ],
+    [
         "#0283; Surskit; Bug, Water"
     ],
     [
@@ -1038,7 +1146,13 @@
         "#0302; Sableye; Dark, Ghost"
     ],
     [
+        "#0302; Sableye-Mega; Dark, Ghost"
+    ],
+    [
         "#0303; Mawile; Steel, Fairy"
+    ],
+    [
+        "#0303; Mawile-Mega; Steel, Fairy"
     ],
     [
         "#0304; Aron; Steel, Rock"
@@ -1050,16 +1164,25 @@
         "#0306; Aggron; Steel, Rock"
     ],
     [
+        "#0306; Aggron-Mega; Steel"
+    ],
+    [
         "#0307; Meditite; Fighting, Psychic"
     ],
     [
         "#0308; Medicham; Fighting, Psychic"
     ],
     [
+        "#0308; Medicham-Mega; Fighting, Psychic"
+    ],
+    [
         "#0309; Electrike; Electric"
     ],
     [
         "#0310; Manectric; Electric"
+    ],
+    [
+        "#0310; Manectric-Mega; Electric"
     ],
     [
         "#0311; Plusle; Electric"
@@ -1089,6 +1212,9 @@
         "#0319; Sharpedo; Water, Dark"
     ],
     [
+        "#0319; Sharpedo-Mega; Water, Dark"
+    ],
+    [
         "#0320; Wailmer; Water"
     ],
     [
@@ -1099,6 +1225,9 @@
     ],
     [
         "#0323; Camerupt; Fire, Ground"
+    ],
+    [
+        "#0323; Camerupt-Mega; Fire, Ground"
     ],
     [
         "#0324; Torkoal; Fire"
@@ -1132,6 +1261,9 @@
     ],
     [
         "#0334; Altaria; Dragon, Flying"
+    ],
+    [
+        "#0334; Altaria-Mega; Dragon, Fairy"
     ],
     [
         "#0335; Zangoose; Normal"
@@ -1203,6 +1335,9 @@
         "#0354; Banette; Ghost"
     ],
     [
+        "#0354; Banette-Mega; Ghost"
+    ],
+    [
         "#0355; Duskull; Ghost"
     ],
     [
@@ -1218,6 +1353,9 @@
         "#0359; Absol; Dark"
     ],
     [
+        "#0359; Absol-Mega; Dark"
+    ],
+    [
         "#0360; Wynaut; Psychic"
     ],
     [
@@ -1225,6 +1363,9 @@
     ],
     [
         "#0362; Glalie; Ice"
+    ],
+    [
+        "#0362; Glalie-Mega; Ice"
     ],
     [
         "#0363; Spheal; Ice, Water"
@@ -1260,6 +1401,9 @@
         "#0373; Salamence; Dragon, Flying"
     ],
     [
+        "#0373; Salamence-Mega; Dragon, Flying"
+    ],
+    [
         "#0374; Beldum; Steel, Psychic"
     ],
     [
@@ -1267,6 +1411,9 @@
     ],
     [
         "#0376; Metagross; Steel, Psychic"
+    ],
+    [
+        "#0376; Metagross-Mega; Steel, Psychic"
     ],
     [
         "#0377; Regirock; Rock"
@@ -1281,7 +1428,13 @@
         "#0380; Latias; Dragon, Psychic"
     ],
     [
+        "#0380; Latias-Mega; Dragon, Psychic"
+    ],
+    [
         "#0381; Latios; Dragon, Psychic"
+    ],
+    [
+        "#0381; Latios-Mega; Dragon, Psychic"
     ],
     [
         "#0382; KyogreKyogre; Water"
@@ -1291,6 +1444,9 @@
     ],
     [
         "#0384; Rayquaza; Dragon, Flying"
+    ],
+    [
+        "#0384; Rayquaza-Mega; Dragon, Flying"
     ],
     [
         "#0385; Jirachi; Steel, Psychic"
@@ -1455,6 +1611,9 @@
         "#0428; Lopunny; Normal"
     ],
     [
+        "#0428; Lopunny-Mega; Normal, Fighting"
+    ],
+    [
         "#0429; Mismagius; Ghost"
     ],
     [
@@ -1506,6 +1665,9 @@
         "#0445; Garchomp; Dragon, Ground"
     ],
     [
+        "#0445; Garchomp-Mega; Dragon, Ground"
+    ],
+    [
         "#0446; Munchlax; Normal"
     ],
     [
@@ -1513,6 +1675,9 @@
     ],
     [
         "#0448; Lucario; Fighting, Steel"
+    ],
+    [
+        "#0448; Lucario-Mega; Fighting, Steel"
     ],
     [
         "#0449; Hippopotas; Ground"
@@ -1549,6 +1714,9 @@
     ],
     [
         "#0460; Abomasnow; Grass, Ice"
+    ],
+    [
+        "#0460; Abomasnow-Mega; Grass, Ice"
     ],
     [
         "#0461; Weavile; Dark, Ice"
@@ -1594,6 +1762,9 @@
     ],
     [
         "#0475; Gallade; Psychic, Fighting"
+    ],
+    [
+        "#0475; Gallade-Mega; Psychic, Fighting"
     ],
     [
         "#0476; Probopass; Rock, Steel"
@@ -1794,6 +1965,9 @@
         "#0531; Audino; Normal"
     ],
     [
+        "#0531; Audino-Mega; Normal, Fairy"
+    ],
+    [
         "#0532; Timburr; Fighting"
     ],
     [
@@ -1930,6 +2104,9 @@
     ],
     [
         "#0569; Garbodor; Poison"
+    ],
+    [
+        "#0569; Garbodor-Gigantamax; Poison"
     ],
     [
         "#0570; Zorua; Dark"
@@ -2505,6 +2682,9 @@
         "#0719; Diancie; Rock, Fairy"
     ],
     [
+        "#0719; Diancie-Mega; Rock, Fairy"
+    ],
+    [
         "#0720; HoopaHoopa Confined; Psychic, Ghost"
     ],
     [
@@ -2811,6 +2991,9 @@
         "#0809; Melmetal; Steel"
     ],
     [
+        "#0809; Melmetal-Gigantamax; Steel"
+    ],
+    [
         "#0810; Grookey; Grass"
     ],
     [
@@ -2818,6 +3001,9 @@
     ],
     [
         "#0812; Rillaboom; Grass"
+    ],
+    [
+        "#0812; Rillaboom-Gigantamax; Grass"
     ],
     [
         "#0813; Scorbunny; Fire"
@@ -2829,6 +3015,9 @@
         "#0815; Cinderace; Fire"
     ],
     [
+        "#0815; Cinderace-Gigantamax; Fire"
+    ],
+    [
         "#0816; Sobble; Water"
     ],
     [
@@ -2836,6 +3025,9 @@
     ],
     [
         "#0818; Inteleon; Water"
+    ],
+    [
+        "#0818; Inteleon-Gigantamax; Water"
     ],
     [
         "#0819; Skwovet; Normal"
@@ -2853,6 +3045,9 @@
         "#0823; Corviknight; Flying, Steel"
     ],
     [
+        "#0823; Corviknight-Gigantamax; Flying, Steel"
+    ],
+    [
         "#0824; Blipbug; Bug"
     ],
     [
@@ -2860,6 +3055,9 @@
     ],
     [
         "#0826; Orbeetle; Bug, Psychic"
+    ],
+    [
+        "#0826; Orbeetle-Gigantamax; Bug, Psychic"
     ],
     [
         "#0827; Nickit; Dark"
@@ -2886,6 +3084,9 @@
         "#0834; Drednaw; Water, Rock"
     ],
     [
+        "#0834; Drednaw-Gigantamax; Water, Rock"
+    ],
+    [
         "#0835; Yamper; Electric"
     ],
     [
@@ -2901,13 +3102,22 @@
         "#0839; Coalossal; Rock, Fire"
     ],
     [
+        "#0839; Coalossal-Gigantamax; Rock, Fire"
+    ],
+    [
         "#0840; Applin; Grass, Dragon"
     ],
     [
         "#0841; Flapple; Grass, Dragon"
     ],
     [
+        "#0841; Flapple-Gigantamax; Grass, Dragon"
+    ],
+    [
         "#0842; Appletun; Grass, Dragon"
+    ],
+    [
+        "#0842; Appletun-Gigantamax; Grass, Dragon"
     ],
     [
         "#0843; Silicobra; Ground"
@@ -2916,13 +3126,16 @@
         "#0844; Sandaconda; Ground"
     ],
     [
+        "#0844; Sandaconda-Gigantamax; Ground"
+    ],
+    [
         "#0845; Cramorant; Flying, Water"
     ],
     [
-        "#0845; CramorantGulping Form; Flying, Water"
+        "#0845; Cramorant-Gulping; Flying, Water"
     ],
     [
-        "#0845; CramorantGorging Form; Flying, Water"
+        "#0845; Cramorant-Gorging; Flying, Water"
     ],
     [
         "#0846; Arrokuda; Water"
@@ -2934,16 +3147,22 @@
         "#0848; Toxel; Electric, Poison"
     ],
     [
-        "#0849; ToxtricityAmped Form; Electric, Poison"
+        "#0849; Toxtricity-Amped; Electric, Poison"
     ],
     [
-        "#0849; ToxtricityLow Key Form; Electric, Poison"
+        "#0849; Toxtricity-Low_Key; Electric, Poison"
+    ],
+    [
+        "#0849; Toxtricity-Gigantamax; Electric, Poison"
     ],
     [
         "#0850; Sizzlipede; Fire, Bug"
     ],
     [
         "#0851; Centiskorch; Fire, Bug"
+    ],
+    [
+        "#0851; Centiskorch-Gigantamax; Fire, Bug"
     ],
     [
         "#0852; Clobbopus; Fighting"
@@ -2967,6 +3186,9 @@
         "#0858; Hatterene; Psychic, Fairy"
     ],
     [
+        "#0858; Hatterene-Gigantamax; Psychic, Fairy"
+    ],
+    [
         "#0859; Impidimp; Dark, Fairy"
     ],
     [
@@ -2974,6 +3196,9 @@
     ],
     [
         "#0861; Grimmsnarl; Dark, Fairy"
+    ],
+    [
+        "#0861; Grimmsnarl-Gigantamax; Dark, Fairy"
     ],
     [
         "#0862; Obstagoon; Dark, Normal"
@@ -2997,7 +3222,10 @@
         "#0868; Milcery; Fairy"
     ],
     [
-        "#0869; AlcremieVanilla Cream; Fairy"
+        "#0869; Alcremie; Fairy"
+    ],
+    [
+        "#0869; Alcremie-Gigantamax; Fairy"
     ],
     [
         "#0870; Falinks; Fighting"
@@ -3015,28 +3243,31 @@
         "#0874; Stonjourner; Rock"
     ],
     [
-        "#0875; EiscueIce Face; Ice"
+        "#0875; Eiscue; Ice"
     ],
     [
-        "#0875; EiscueNoice Face; Ice"
+        "#0875; Eiscue-Noice; Ice"
     ],
     [
-        "#0876; IndeedeeMale; Psychic, Normal"
+        "#0876; Indeedee-Male; Psychic, Normal"
     ],
     [
-        "#0876; IndeedeeFemale; Psychic, Normal"
+        "#0876; Indeedee-Female; Psychic, Normal"
     ],
     [
-        "#0877; MorpekoFull Belly Mode; Electric, Dark"
+        "#0877; Morpeko-Full; Electric, Dark"
     ],
     [
-        "#0877; MorpekoHangry Mode; Electric, Dark"
+        "#0877; Morpeko-Hangry; Electric, Dark"
     ],
     [
         "#0878; Cufant; Steel"
     ],
     [
         "#0879; Copperajah; Steel"
+    ],
+    [
+        "#0879; Copperajah-Gigantamax; Steel"
     ],
     [
         "#0880; Dracozolt; Electric, Dragon"
@@ -3052,6 +3283,9 @@
     ],
     [
         "#0884; Duraludon; Steel, Dragon"
+    ],
+    [
+        "#0884; Duraludon-Gigantamax; Steel, Dragon"
     ],
     [
         "#0885; Dreepy; Dragon, Ghost"
@@ -3081,10 +3315,13 @@
         "#0891; Kubfu; Fighting"
     ],
     [
-        "#0892; UrshifuSingle Strike Style; Fighting, Dark"
+        "#0892; Urshifu-Single_Strike; Fighting, Dark"
     ],
     [
-        "#0892; UrshifuRapid Strike Style; Fighting, Water"
+        "#0892; Urshifu-Gigantamax_Single_Strike; Fighting, Dark"
+    ],
+    [
+        "#0892; Urshifu-Gigantamax_Rapid_Strike; Fighting, Water"
     ],
     [
         "#0893; Zarude; Dark, Grass"
@@ -3120,10 +3357,10 @@
         "#0901; Ursaluna; Ground, Normal"
     ],
     [
-        "#0902; BasculegionMale; Water, Ghost"
+        "#0902; Basculegion-Male; Water, Ghost"
     ],
     [
-        "#0902; BasculegionFemale; Water, Ghost"
+        "#0902; Basculegion-Female; Water, Ghost"
     ],
     [
         "#0903; Sneasler; Fighting, Poison"
@@ -3132,10 +3369,10 @@
         "#0904; Overqwil; Dark, Poison"
     ],
     [
-        "#0905; EnamorusIncarnate Forme; Fairy, Flying"
+        "#0905; Enamorus; Fairy, Flying"
     ],
     [
-        "#0905; EnamorusTherian Forme; Fairy, Flying"
+        "#0905; Enamorus-Therian; Fairy, Flying"
     ],
     [
         "#0906; Sprigatito; Grass"
@@ -3168,10 +3405,10 @@
         "#0915; Lechonk; Normal"
     ],
     [
-        "#0916; OinkologneMale; Normal"
+        "#0916; Oinkologne-Male; Normal"
     ],
     [
-        "#0916; OinkologneFemale; Normal"
+        "#0916; Oinkologne-Female; Normal"
     ],
     [
         "#0917; Tarountula; Bug"
@@ -3198,10 +3435,10 @@
         "#0924; Tandemaus; Normal"
     ],
     [
-        "#0925; MausholdFamily of Three; Normal"
+        "#0925; Maushold-Three; Normal"
     ],
     [
-        "#0925; MausholdFamily of Four; Normal"
+        "#0925; Maushold; Normal"
     ],
     [
         "#0926; Fidough; Fairy"
@@ -3219,16 +3456,16 @@
         "#0930; Arboliva; Grass, Normal"
     ],
     [
-        "#0931; SquawkabillyGreen Plumage; Normal, Flying"
+        "#0931; Squawkabilly; Normal, Flying"
     ],
     [
-        "#0931; SquawkabillyBlue Plumage; Normal, Flying"
+        "#0931; Squawkabilly-Blue; Normal, Flying"
     ],
     [
-        "#0931; SquawkabillyYellow Plumage; Normal, Flying"
+        "#0931; Squawkabilly-Yellow; Normal, Flying"
     ],
     [
-        "#0931; SquawkabillyWhite Plumage; Normal, Flying"
+        "#0931; Squawkabilly-White; Normal, Flying"
     ],
     [
         "#0932; Nacli; Rock"
