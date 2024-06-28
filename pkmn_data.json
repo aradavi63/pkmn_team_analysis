@@ -132,7 +132,7 @@
         "#0028; Sandslash-Alola; Ice, Steel"
     ],
     [
-        "#0029; Nidoran\u2640; Poison"
+        "#0029; Nidoran-Female; Poison"
     ],
     [
         "#0030; Nidorina; Poison"
@@ -141,7 +141,7 @@
         "#0031; Nidoqueen; Poison, Ground"
     ],
     [
-        "#0032; Nidoran\u2642; Poison"
+        "#0032; Nidoran-Male; Poison"
     ],
     [
         "#0033; Nidorino; Poison"
@@ -2472,46 +2472,46 @@
         "#0669; Flabébé; Fairy"
     ],
     [
-        "#0669; Flab\u00e9b\u00e9Yellow Flower; Fairy"
+        "#0669; Flabébé-Yellow; Fairy"
     ],
     [
-        "#0669; Flab\u00e9b\u00e9Orange Flower; Fairy"
+        "#0669; Flabébé-Orange; Fairy"
     ],
     [
-        "#0669; Flab\u00e9b\u00e9Blue Flower; Fairy"
+        "#0669; Flabébé-Blue; Fairy"
     ],
     [
-        "#0669; Flab\u00e9b\u00e9White Flower; Fairy"
+        "#0669; Flabébé-White; Fairy"
     ],
     [
-        "#0670; FloetteRed Flower; Fairy"
+        "#0670; Floette; Fairy"
     ],
     [
-        "#0670; FloetteYellow Flower; Fairy"
+        "#0670; Floette-Yellow; Fairy"
     ],
     [
-        "#0670; FloetteOrange Flower; Fairy"
+        "#0670; Floette-Orange; Fairy"
     ],
     [
-        "#0670; FloetteBlue Flower; Fairy"
+        "#0670; Floette-Blue; Fairy"
     ],
     [
-        "#0670; FloetteWhite Flower; Fairy"
+        "#0670; Floette-White; Fairy"
     ],
     [
-        "#0671; FlorgesRed Flower; Fairy"
+        "#0671; Florges-Red; Fairy"
     ],
     [
-        "#0671; FlorgesYellow Flower; Fairy"
+        "#0671; Florges-Yellow; Fairy"
     ],
     [
-        "#0671; FlorgesOrange Flower; Fairy"
+        "#0671; Florges-Orange; Fairy"
     ],
     [
-        "#0671; FlorgesBlue Flower; Fairy"
+        "#0671; Florges-Blue; Fairy"
     ],
     [
-        "#0671; FlorgesWhite Flower; Fairy"
+        "#0671; Florges-White; Fairy"
     ],
     [
         "#0672; Skiddo; Grass"
@@ -2532,10 +2532,10 @@
         "#0677; Espurr; Psychic"
     ],
     [
-        "#0678; MeowsticMale; Psychic"
+        "#0678; Meowstic-Male; Psychic"
     ],
     [
-        "#0678; MeowsticFemale; Psychic"
+        "#0678; Meowstic-Female; Psychic"
     ],
     [
         "#0679; Honedge; Steel, Ghost"
@@ -2544,10 +2544,10 @@
         "#0680; Doublade; Steel, Ghost"
     ],
     [
-        "#0681; AegislashShield Forme; Steel, Ghost"
+        "#0681; Aegislash-Shield; Steel, Ghost"
     ],
     [
-        "#0681; AegislashBlade Forme; Steel, Ghost"
+        "#0681; Aegislash-Blade; Steel, Ghost"
     ],
     [
         "#0682; Spritzee; Fairy"
@@ -2661,22 +2661,22 @@
         "#0715; Noivern; Flying, Dragon"
     ],
     [
-        "#0716; XerneasNeutral Mode; Fairy"
+        "#0716; Xerneas-Neutral; Fairy"
     ],
     [
-        "#0716; XerneasActive Mode; Fairy"
+        "#0716; Xerneas; Fairy"
     ],
     [
         "#0717; Yveltal; Dark, Flying"
     ],
     [
-        "#0718; Zygarde50% Forme; Dragon, Ground"
+        "#0718; Zygarde; Dragon, Ground"
     ],
     [
-        "#0718; Zygarde10% Forme; Dragon, Ground"
+        "#0718; Zygarde-10%; Dragon, Ground"
     ],
     [
-        "#0718; ZygardeComplete Forme; Dragon, Ground"
+        "#0718; Zygarde-Complete; Dragon, Ground"
     ],
     [
         "#0719; Diancie; Rock, Fairy"
@@ -2685,10 +2685,10 @@
         "#0719; Diancie-Mega; Rock, Fairy"
     ],
     [
-        "#0720; HoopaHoopa Confined; Psychic, Ghost"
+        "#0720; Hoopa; Psychic, Ghost"
     ],
     [
-        "#0720; HoopaHoopa Unbound; Psychic, Dark"
+        "#0720; Hoopa-Unbound; Psychic, Dark"
     ],
     [
         "#0721; Volcanion; Fire, Water"
@@ -2754,16 +2754,16 @@
         "#0740; Crabominable; Fighting, Ice"
     ],
     [
-        "#0741; OricorioBaile Style; Fire, Flying"
+        "#0741; Oricorio; Fire, Flying"
     ],
     [
-        "#0741; OricorioPom-Pom Style; Electric, Flying"
+        "#0741; Oricorio-Pom-Pom; Electric, Flying"
     ],
     [
-        "#0741; OricorioPa\u2019u Style; Psychic, Flying"
+        "#0741; Oricorio-Pa'u; Psychic, Flying"
     ],
     [
-        "#0741; OricorioSensu Style; Ghost, Flying"
+        "#0741; Oricorio-Sensu; Ghost, Flying"
     ],
     [
         "#0742; Cutiefly; Bug, Fairy"
@@ -2775,19 +2775,19 @@
         "#0744; Rockruff; Rock"
     ],
     [
-        "#0745; LycanrocMidday Form; Rock"
+        "#0745; Lycanroc; Rock"
     ],
     [
-        "#0745; LycanrocMidnight Form; Rock"
+        "#0745; Lycanroc-Midnight; Rock"
     ],
     [
-        "#0745; LycanrocDusk Form; Rock"
+        "#0745; Lycanroc-Dusk; Rock"
     ],
     [
-        "#0746; WishiwashiSolo Form; Water"
+        "#0746; Wishiwashi; Water"
     ],
     [
-        "#0746; WishiwashiSchool Form; Water"
+        "#0746; Wishiwashi-School; Water"
     ],
     [
         "#0747; Mareanie; Poison, Water"
@@ -2886,10 +2886,10 @@
         "#0777; Togedemaru; Electric, Steel"
     ],
     [
-        "#0778; MimikyuDisguised Form; Ghost, Fairy"
+        "#0778; Mimikyu; Ghost, Fairy"
     ],
     [
-        "#0778; MimikyuBusted Form; Ghost, Fairy"
+        "#0778; Mimikyu-Busted; Ghost, Fairy"
     ],
     [
         "#0779; Bruxish; Water, Psychic"
@@ -2958,10 +2958,10 @@
         "#0800; Necrozma; Psychic"
     ],
     [
-        "#0800; NecrozmaDusk Mane; Psychic, Steel"
+        "#0800; Necrozma-Dusk_Mane; Psychic, Steel"
     ],
     [
-        "#0800; NecrozmaDawn Wings; Psychic, Ghost"
+        "#0800; Necrozma-Dawn_Wings; Psychic, Ghost"
     ],
     [
         "#0801; Magearna; Steel, Fairy"
@@ -3297,16 +3297,16 @@
         "#0887; Dragapult; Dragon, Ghost"
     ],
     [
-        "#0888; ZacianHero of Many Battles; Fairy"
+        "#0888; Zacian-Hero; Fairy"
     ],
     [
-        "#0888; ZacianCrowned Sword; Fairy, Steel"
+        "#0888; Zacian; Fairy, Steel"
     ],
     [
-        "#0889; ZamazentaHero of Many Battles; Fighting"
+        "#0889; Zamazenta-Hero; Fighting"
     ],
     [
-        "#0889; ZamazentaCrowned Shield; Fighting, Steel"
+        "#0889; Zamazenta; Fighting, Steel"
     ],
     [
         "#0890; Eternatus; Poison, Dragon"
@@ -3342,10 +3342,10 @@
         "#0898; Calyrex; Psychic, Grass"
     ],
     [
-        "#0898; CalyrexIce Rider; Psychic, Ice"
+        "#0898; Calyrex-Ice_Rider; Psychic, Ice"
     ],
     [
-        "#0898; CalyrexShadow Rider; Psychic, Ghost"
+        "#0898; Calyrex-Shadow_Rider; Psychic, Ghost"
     ],
     [
         "#0899; Wyrdeer; Normal, Psychic"
@@ -3564,10 +3564,10 @@
         "#0963; Finizen; Water"
     ],
     [
-        "#0964; PalafinZero Form; Water"
+        "#0964; Palafin; Water"
     ],
     [
-        "#0964; PalafinHero Form; Water"
+        "#0964; Palafin-Hero; Water"
     ],
     [
         "#0965; Varoom; Steel, Poison"
@@ -3609,13 +3609,13 @@
         "#0977; Dondozo; Water"
     ],
     [
-        "#0978; TatsugiriCurly Form; Dragon, Water"
+        "#0978; Tatsugiri-Curly; Dragon, Water"
     ],
     [
-        "#0978; TatsugiriDroopy Form; Dragon, Water"
+        "#0978; Tatsugiri-Droopy; Dragon, Water"
     ],
     [
-        "#0978; TatsugiriStretchy Form; Dragon, Water"
+        "#0978; Tatsugiri-Stretchy; Dragon, Water"
     ],
     [
         "#0979; Annihilape; Fighting, Ghost"
@@ -3627,10 +3627,10 @@
         "#0981; Farigiraf; Normal, Psychic"
     ],
     [
-        "#0982; DudunsparceTwo-Segment Form; Normal"
+        "#0982; Dudunsparce; Normal"
     ],
     [
-        "#0982; DudunsparceThree-Segment Form; Normal"
+        "#0982; Dudunsparce-Three; Normal"
     ],
     [
         "#0983; Kingambit; Dark, Steel"
@@ -3681,10 +3681,10 @@
         "#0998; Baxcalibur; Dragon, Ice"
     ],
     [
-        "#0999; GimmighoulChest Form; Ghost"
+        "#0999; Gimmighoul; Ghost"
     ],
     [
-        "#0999; GimmighoulRoaming Form; Ghost"
+        "#0999; Gimmighoul-Roaming; Ghost"
     ],
     [
         "#1000; Gholdengo; Steel, Ghost"
@@ -3708,10 +3708,10 @@
         "#1006; Iron Valiant; Fairy, Fighting"
     ],
     [
-        "#1007; KoraidonApex Build; Fighting, Dragon"
+        "#1007; Koraidon; Fighting, Dragon"
     ],
     [
-        "#1008; MiraidonUltimate Mode; Electric, Dragon"
+        "#1008; Miraidon; Electric, Dragon"
     ],
     [
         "#1009; Walking Wake; Water, Dragon"
@@ -3738,16 +3738,16 @@
         "#1016; Fezandipiti; Poison, Fairy"
     ],
     [
-        "#1017; OgerponTeal Mask; Grass"
+        "#1017; Ogerpon-Teal_Mask; Grass"
     ],
     [
-        "#1017; OgerponWellspring Mask; Grass, Water"
+        "#1017; Ogerpon-Wellspring_Mask; Grass, Water"
     ],
     [
-        "#1017; OgerponHearthflame Mask; Grass, Fire"
+        "#1017; Ogerpon-Hearthflame_Mask; Grass, Fire"
     ],
     [
-        "#1017; OgerponCornerstone Mask; Grass, Rock"
+        "#1017; Ogerpon-Cornerstone_Mask; Grass, Rock"
     ],
     [
         "#1018; Archaludon; Steel, Dragon"
@@ -3768,15 +3768,12 @@
         "#1023; Iron Crown; Steel, Psychic"
     ],
     [
-        "#1024; TerapagosNormal Form; Normal"
+        "#1024; Terapagos; Normal"
     ],
     [
-        "#1024; TerapagosTerastal Form; Normal"
+        "#1024; Terapagos-Terastal; Normal"
     ],
     [
         "#1025; Pecharunt; Poison, Ghost"
-    ],
-    [
-        "Lists of Pok\u00e9monbyNational Pok\u00e9dexno.English\u2022Japanese\u2022German\u2022French\u2022Spanish\u2022Italian\u2022Korean\u2022ChineseBrazilian Portuguese\u2022Turkish\u2022Russian\u2022Thai\u2022Hindibyregional Pok\u00e9dexno.Kanto\u2022New\u2022Johto\u2022 Hoenn (Gen III\u2022Gen VI) \u2022Sinnoh\u2022 Unova (BW\u2022B2W2\u2022Blueberry)Kalos\u2022 Alola (SM\u2022USUM) \u2022Galar(Isle of Armor\u2022Crown Tundra) \u2022Hisui\u2022Paldea\u2022KitakamiUnown Mode\u2022in every regional Pok\u00e9dexbyregional Browserno.Fiore\u2022Almia\u2022Oblivia\u2022in no regional Browser\u2022in every regional Browserbyindex numberGeneration I\u2022Generation II\u2022Generation III\u2022Generation IV\u2022Generation VGeneration VI\u2022Generation VII\u2022Generation VIII\u2022Generation IXPinball\u2022Pinball RSby other numbering systemsDPBP\u2022Pok\u00e9Park Pad\u2022Ransei Gallery\u2022Shuffle list\u2022Picross list\u2022Masters EX Sync PairsLental Photodex\u2022Duel Library\u2022Google Maps: Pok\u00e9mon Challenge\u2022UNITE\u2022Sleep Style Dexby attributesAbility\u2022Egg Group\u2022category(abundance\u2022other languages) \u2022food preferences\u2022habitat\u2022IQ group\u2022height\u2022weightform differences(GO) \u2022gender differences\u2022shape\u2022icon (Gen I\u2013II)color\u2022color palette (Gen I)\u2022unique type combinationsbyevolutionevolution family(GO) \u2022no evolution family\u2022branched\u2022cross-generation\u2022levelsby availabilityavailability(GO\u2022Sleep) \u2022mutually exclusive\u2022permanently missableby in-game statsbase stats(Gen I\u2022Gen II-V\u2022Gen VI\u2022Gen VII\u2022Gen VIII\u2022Gen IX\u2022fully evolved\u2022unique base stat totals\u2022GO)performance stats\u2022catch rate(GO) \u2022 EVs given in battle (Gen III\u2022Gen IV\u2022Gen V-VI\u2022Gen VII\u2022Gen VIII\u2022Gen IX) \u2022gender ratiosteps to hatch\u2022wild held item(Gen II) \u2022experience type\u2022base friendship\u2022call ratemiscellaneousalphabetically\u2022 field moves (Gen I\u2022Gen II\u2022Gen III\u2022Gen IV\u2022Gen V\u2022Gen VI)Shadow Pok\u00e9mon\u2022unobtainable Shiny Pok\u00e9mon\u2022Pal Park area\u2022Pok\u00e9walker\u2022debut episode\u2022glitchreleased with a Hidden Ability (Gen V\u2022Gen VI\u2022Gen VII\u2022Gen VIII) \u2022ST Energy Shot\u2022petting; ; Kanto\u2022New\u2022Johto\u2022 Hoenn (Gen III\u2022Gen VI) \u2022Sinnoh\u2022 Unova (BW\u2022B2W2\u2022Blueberry)Kalos\u2022 Alola (SM\u2022USUM) \u2022Galar(Isle of Armor\u2022Crown Tundra) \u2022Hisui\u2022Paldea\u2022KitakamiUnown Mode\u2022in every regional Pok\u00e9dex"
     ]
 ]
