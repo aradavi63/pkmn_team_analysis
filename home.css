@@ -42,3 +42,19 @@ table td, th {
 .search-container {
     text-align:center;
 }
+
+.suggestions {
+    border: 1px solid #ccc;
+    max-height: 150px;
+    overflow-y: auto;
+    position: absolute;
+    background: white;
+    width: calc(100% - 20px); /* Adjust width according to your input's width */
+}
+.suggestion-item {
+    padding: 8px;
+    cursor: pointer;
+}
+.suggestion-item:hover {
+    background-color: #f0f0f0;
+}

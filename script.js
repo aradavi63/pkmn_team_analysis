@@ -15,6 +15,9 @@ document.addEventListener('DOMContentLoaded', () => {
                         searchPokemon(input.id);
                     }
                 });
+                input.addEventListener('input', () => {
+                    showSuggestions(input.id);
+                });
             });
         })
         .catch(error => console.error('Error loading Pokémon data:', error));
@@ -31,7 +34,7 @@ function searchPokemon(searchId) {
 
     const matchedIndexes = [];
     for (let i = 0; i < pokemonData.length; i++) {
-        if (pokemonData[i][1].toLowerCase().includes(searchInput)) {
+        if (pokemonData[i][1].toLowerCase() === searchInput) {
             matchedIndexes.push(i);
         }
     }
@@ -42,7 +45,6 @@ function searchPokemon(searchId) {
             const pokemonImage = document.createElement('img');
             const pokemonInfo = document.createElement('p');
 
-            const number = pokemonData[index][0].replace('#', ''); // Remove the # for file naming
             const name = pokemonData[index][1];
             const types = pokemonData[index][2];
 
@@ -57,4 +59,30 @@ function searchPokemon(searchId) {
     } else {
         resultDiv.innerHTML = '<p>No Pokémon found</p>';
     }
+}
+
+function showSuggestions(inputId) {
+    const searchInput = document.getElementById(inputId).value.toLowerCase();
+    const suggestionsDiv = document.getElementById('suggestions' + inputId.slice(-1));
+    suggestionsDiv.innerHTML = '';
+
+    if (searchInput.length === 0) {
+        return;
+    }
+
+    const suggestions = pokemonData.filter(pokemon => 
+        pokemon[1].toLowerCase().includes(searchInput)
+    ).slice(0, 10); // Limit suggestions to top 10 matches
+
+    suggestions.forEach(pokemon => {
+        const suggestionItem = document.createElement('div');
+        suggestionItem.className = 'suggestion-item';
+        suggestionItem.textContent = pokemon[1];
+        suggestionItem.addEventListener('click', () => {
+            document.getElementById(inputId).value = pokemon[1];
+            suggestionsDiv.innerHTML = '';
+            searchPokemon(inputId);
+        });
+        suggestionsDiv.appendChild(suggestionItem);
+    });
 }
