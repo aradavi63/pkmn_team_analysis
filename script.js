@@ -55,6 +55,7 @@ function searchPokemon(searchId) {
             pokemonDiv.appendChild(pokemonImage);
             pokemonDiv.appendChild(pokemonInfo);
             resultDiv.appendChild(pokemonDiv);
+
         });
     } else {
         resultDiv.innerHTML = '<p>No Pokémon found</p>';
