@@ -26,9 +26,11 @@ document.addEventListener('DOMContentLoaded', () => {
 function searchPokemon(searchId) {
     const searchInput = document.getElementById(searchId).value.toLowerCase();
     const resultDiv = document.getElementById('result' + searchId.slice(-1));
+    const defColumn = document.getElementById('def' + searchId.slice(-1));
     resultDiv.innerHTML = '';
 
     if (searchInput.length === 0) {
+        defColumn.innerHTML = '';
         return;
     }
 
@@ -46,19 +48,42 @@ function searchPokemon(searchId) {
             const pokemonInfo = document.createElement('p');
 
             const name = pokemonData[index][1];
-            const types = pokemonData[index][2];
+            const types = pokemonData[index][2].split(', ');
 
             pokemonImage.src = `/icons/pkmn_icons/${name}.png`;
             pokemonImage.alt = name;
-            pokemonInfo.innerHTML = `<strong>${name}</strong><br>Type: ${types}`;
+
+            pokemonInfo.innerHTML = `<strong>${name}</strong><br>`;
+
+            types.forEach(type => {
+                const typeImage = document.createElement('img');
+                typeImage.src = `/icons/type_icons/${type.toLowerCase()}-i.png`;
+                typeImage.alt = type;
+                pokemonInfo.appendChild(typeImage);
+            });
 
             pokemonDiv.appendChild(pokemonImage);
             pokemonDiv.appendChild(pokemonInfo);
             resultDiv.appendChild(pokemonDiv);
 
+            // Update the defensive coverage table
+            defColumn.innerHTML = `<strong>${name}</strong><br>`;
+
+            const defPokemonImage = document.createElement('img');
+            defPokemonImage.src = `/icons/pkmn_icons/${name.toLowerCase()}.png\n`;
+            defPokemonImage.alt = name;
+            defColumn.appendChild(defPokemonImage);
+
+            types.forEach(type => {
+                const typeImage = document.createElement('img');
+                typeImage.src = `/icons/type_icons/${type.toLowerCase()}-i.png`;
+                typeImage.alt = type;
+                defColumn.appendChild(typeImage);
+            });
         });
     } else {
         resultDiv.innerHTML = '<p>No Pokémon found</p>';
+        defColumn.innerHTML = '<p>No Pokémon found</p>';
     }
 }
 
